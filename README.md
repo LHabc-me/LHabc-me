@@ -12,14 +12,16 @@
 <div align="center">
     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=LHabc-me&theme=tokyo-night"
          >
-    <nobr align="center">
+    <span align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=LHabc-me&count_private=true&theme=tokyonight"
             align="left"
             width=64%
             >
+    </span>
+    <span>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LHabc-me"
             align="right"
             width=29%
             >
-    </nobr>
+    </span>
 </div>
