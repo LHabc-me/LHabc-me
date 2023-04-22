@@ -18,6 +18,6 @@
     <img class="img3" 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=LHabc-me"
          align="right"
-         width=40%
+         width=35%
          style="border: 0;margin: 0;">
 </div>
