@@ -21,7 +21,7 @@ jobs:
       run: node index.js > README.md
     - name: Commit change & Push
       run: |
-          git config user.name 'github-actions[bot]'
-          git config user.email 'LHabc.code+github-actions[bot]@users.noreply.github.com'
+          git config user.name 'LHabc-me'
+          git config user.email 'LHabc.code@outlook.com'
           git commit -am "bot: update README.md automatically"
           git push
