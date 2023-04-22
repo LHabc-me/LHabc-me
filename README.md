@@ -1,7 +1,7 @@
 
-<h1 align="center">
+<div align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=console.log('welcome')" alt="Typing SVG" />
-</h1>
+</div>
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LHabc-me/LHabc-me/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LHabc-me/LHabc-me/output/github-contribution-grid-snake.svg">
