@@ -9,10 +9,10 @@
     <img class="img2" 
          src="https://github-readme-stats.vercel.app/api?username=LHabc-me&count_private=true&theme=radical"
          align="left"
-         height=300px
+         height=280px
          >
     <img class="img3" 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=LHabc-me"
          align="right"
-         height=300px>
+         height=280px>
 </div>
