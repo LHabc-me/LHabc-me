@@ -12,7 +12,7 @@
          src="https://github-readme-activity-graph.cyclic.app/graph?username=LHabc-me&theme=tokyo-night"
          style="display: block;border: 0;margin: 0;">
     <img class="img2" 
-         src="https://github-readme-stats.vercel.app/api?username=LHabc-me&count_private=true&theme=radical"
+         src="https://github-readme-stats.vercel.app/api?username=LHabc-me&count_private=true&theme=tokyonight"
          align="left"
          width=64%
          style="border: 0;margin: 0;"
