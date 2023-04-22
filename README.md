@@ -15,4 +15,10 @@
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=LHabc-me"
          align="right"
          height=245px>
+    <style>
+        * {
+            border: 0
+            margin: 0
+        }
+    </style>
 </div>
