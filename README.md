@@ -12,7 +12,7 @@
     <img class="img2" 
          src="https://github-readme-stats.vercel.app/api?username=LHabc-me&count_private=true&theme=radical"
          align="left"
-         width=65%
+         width=64%
          style="border: 0;margin: 0;"
          >
     <img class="img3" 
