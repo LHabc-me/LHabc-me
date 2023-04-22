@@ -12,16 +12,14 @@
 <div align="center">
     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=LHabc-me&theme=tokyo-night"
          >
-    <span align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=LHabc-me&count_private=true&theme=tokyonight"
-            align="left"
-            width=64%
-            >
-    </span>
-    <span>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LHabc-me"
-            align="right"
-            width=29%
-            >
-    </span>
+<div>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=LHabc-me&count_private=true&theme=tokyonight"
+        align="left"
+        height=300rm
+        >
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LHabc-me"
+        align="right"
+        height=300rm
+        >
 </div>
