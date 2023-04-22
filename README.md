@@ -1,25 +1,31 @@
-### Hi there 👋
 
-<!--
-**LHabc-me/LHabc-me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div class="horizon-center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&repeat=false&width=435&lines=console.log('welcome')" alt="Typing SVG" />
+</div>
+<div class="container">
+    <img class="img1 horizon-center" 
+         src="https://github-readme-activity-graph.cyclic.app/graph?username=LHabc-me&theme=tokyo-night">
+    <img class="img2" 
+         src="https://github-readme-stats.vercel.app/api?username=LHabc-me&count_private=true&theme=radical">
+    <img class="img3" 
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=LHabc-me">
+</div>
+  
+<style>
+    *{border: 1px solid black;margin: 0;padding: 0;} 
 
-Here are some ideas to get you started:
+    .horizon-center {
+        display: flex;
+        justify-content: center;
+    }
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    .vertical-center {
+        display: flex;
+        align-items: center;
+    }
 
-
-### My Github Contributions
-![](https://raw.githubusercontent.com/LHabc-me/LHabc-me/main/assets/github-contribution-grid-snake.svg)
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&width=435&lines=console.log('welcome')" alt="Typing SVG" /></a>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LHabc-me&theme=tokyo-night)]()
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LHabc-me&count_private=true&theme=radical)]()
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LHabc-me)]()
+    .img2
+    .img3 {
+        height: 200px;
+    }
+</style>
