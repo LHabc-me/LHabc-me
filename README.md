@@ -1,7 +1,7 @@
 
-<div class="horizon-center">
+<h1 align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&repeat=false&width=435&lines=console.log('welcome')" alt="Typing SVG" />
-</div>
+</h1>
 <div class="container">
     <img class="img1 horizon-center" 
          src="https://github-readme-activity-graph.cyclic.app/graph?username=LHabc-me&theme=tokyo-night">
