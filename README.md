@@ -12,7 +12,7 @@
 <div align="center">
     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=LHabc-me&theme=tokyo-night"
          >
-    <div align="center">
+    <span align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=LHabc-me&count_private=true&theme=tokyonight"
             align="left"
             width=64%
@@ -21,5 +21,5 @@
             align="right"
             width=29%
             >
-    </div>
+    </span>
 </div>
