@@ -2,9 +2,11 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&repeat=false&width=435&lines=console.log('welcome')" alt="Typing SVG" />
 </h1>
-<div align="center">
-    <img src="https://raw.githubusercontent.com/LHabc-me/LHabc-me/main/assets/github-contribution-grid-snake.svg" />
-</div>
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LHabc-me/LHabc-me/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LHabc-me/LHabc-me/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LHabc-me/LHabc-me/output/github-contribution-grid-snake.svg">
+</picture>
 <div align="center">
     <img class="img1 horizon-center" 
          src="https://github-readme-activity-graph.cyclic.app/graph?username=LHabc-me&theme=tokyo-night"
