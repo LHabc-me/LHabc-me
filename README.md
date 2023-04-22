@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=console.log('welcome')" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?color=38bdae&font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=console.log('welcome')" alt="Typing SVG" />
 </div>
 <div align="center">
     <picture>
@@ -17,5 +17,5 @@
         height=251rm>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LHabc-me&theme=tokyonight"
         align="center"
-        height=251rm>
+        height=250rm>
 </div>
