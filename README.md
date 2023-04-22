@@ -12,12 +12,12 @@
     <img class="img2" 
          src="https://github-readme-stats.vercel.app/api?username=LHabc-me&count_private=true&theme=radical"
          align="left"
-         height=240px
+         width=60%
          style="border: 0;margin: 0;"
          >
     <img class="img3" 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=LHabc-me"
          align="right"
-         height=240px
+         width=40%
          style="border: 0;margin: 0;">
 </div>
