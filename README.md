@@ -14,7 +14,7 @@
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=LHabc-me&count_private=true&theme=tokyonight"
         align="center"
-        height=251rm>
+        height=250rm>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LHabc-me&theme=tokyonight"
         align="center"
         height=250rm>
