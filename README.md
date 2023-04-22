@@ -16,10 +16,10 @@
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=LHabc-me&count_private=true&theme=tokyonight"
         align="left"
-        height=280rm
+        height=200rm
         >
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LHabc-me"
         align="right"
-        height=280rm
+        height=200rm
         >
 </div>
