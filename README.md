@@ -9,7 +9,7 @@
     </picture>
 </div>
 <div align="center">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=LHabc-me&theme=tokyo-night">
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=LHabc-me&theme=tokyo-night&hide_border=true">
 <div>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=LHabc-me&count_private=true&theme=tokyonight&hide_border=true"
