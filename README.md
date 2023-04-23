@@ -12,10 +12,10 @@
     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=LHabc-me&theme=tokyo-night">
 <div>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=LHabc-me&count_private=true&theme=tokyonight"
+    <img src="https://github-readme-stats.vercel.app/api?username=LHabc-me&count_private=true&theme=tokyonight&hide_border=true"
         align="center"
         height=251rm>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LHabc-me&theme=tokyonight"
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LHabc-me&theme=tokyonight&hide_border=true"
         align="center"
         height=250rm>
 </div>
