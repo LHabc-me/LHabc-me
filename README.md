@@ -11,9 +11,9 @@
 <div align="center">
     <picture align="center">
         <source media="(prefers-color-scheme: dark)" 
-                srcset="https://github-readme-activity-graph.cyclic.app/graph?username=LHabc-me&theme=tokyo-night&hide_border=true">
+                srcset="https://github-readme-activity-graph.vercel.app/graph?username=LHabc-me&theme=tokyo-night&hide_border=true">
         <source media="(prefers-color-scheme: light)" 
-                srcset="https://github-readme-activity-graph.cyclic.app/graph?username=LHabc-me&theme=minimal&hide_border=true">
+                srcset="https://github-readme-activity-graph.vercel.app/graph?username=LHabc-me&theme=minimal&hide_border=true">
         <img alt="activity-graph" 
                 src="https://github-readme-activity-graph.cyclic.app/graph?username=LHabc-me&theme=minimal&hide_border=true">
     </picture>
